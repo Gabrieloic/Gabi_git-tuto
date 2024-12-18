@@ -4,6 +4,10 @@
 ## initialisation des etapes de configuration de git 
 
 
+# documentation officielle pour recherche sur le sujet
+	https://git-scm.com/docs
+	https://docs.github.com/en/get-started
+
 
 ````` bash
 
