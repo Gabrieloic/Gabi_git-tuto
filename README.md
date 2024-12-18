@@ -4,12 +4,12 @@
 # initialisation des etapes de configuration de git 
 
 
-## documentation officielle pour recherche sur le sujet
+``````bash
+
+# documentation officielle pour recherche sur le sujet
 	https://git-scm.com/docs
 	https://docs.github.com/en/get-started
 
-
-````` bash
 
 # on initialise le fichier .git dans notre repertoire local )
 	git init ( dans le repertoire local de notre dossier )
