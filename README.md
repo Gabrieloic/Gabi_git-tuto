@@ -1,10 +1,10 @@
 # Gabi_git-tuto
 
 
-## initialisation des etapes de configuration de git 
+# initialisation des etapes de configuration de git 
 
 
-# documentation officielle pour recherche sur le sujet
+## documentation officielle pour recherche sur le sujet
 	https://git-scm.com/docs
 	https://docs.github.com/en/get-started
 
