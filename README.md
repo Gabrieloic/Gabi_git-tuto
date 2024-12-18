@@ -1,4 +1,4 @@
-# Gabi_git-tut
+# Gabi_git-tuto
 
 
 ## initialisation des etapes de configuration de git 
@@ -27,3 +27,7 @@
 
 # on doit maintenant figer l'etat de nos fichiers dans Git
 	git commit -m " <commentaire que nous souhaitons voir s'afficher une fois le push effectue> "
+
+# a partir d'ici on peut pusher tous les fichiers modifies sur notre repo distant
+	git push origin main
+
