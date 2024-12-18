@@ -1,7 +1,7 @@
 # Gabi_git-tuto
 
 
-# initialisation des etapes de configuration de git 
+## initialisation des etapes de configuration de git 
 
 
 ``````bash
@@ -35,3 +35,11 @@
 # a partir d'ici on peut pusher tous les fichiers modifies sur notre repo distant
 	git push origin main
 
+# on a la possibilite d'avoir les logs des differents commit qui ont ete fait ainsi que leurs utilisateurs
+	git log
+
+# on peut recuperer les logs en details avec les dernieres infos qui ont ete modif, le nombre de lignes rajoutees...
+	git show
+
+# si on s'est trompe et on veut annuler un git add on fait 
+	git restore --staged <Nom_du_fichier_a_annuler> ou alors <.> pour tous les fichiers
