@@ -75,16 +75,16 @@
 ```bash
 
 
-### Dans cette partie, pour une bonne pratique, on va integrer la notion de "Revue de code".
- Pour cela, on va creer un branche, faire des modifications, les envoyer sur le depot distant,
- puis creer une "PULL REQUEST" pour demander une revue de code.
+# Dans cette partie, pour une bonne pratique, on va integrer la notion de "Revue de code".
+# Pour cela, on va creer un branche, faire des modifications, les envoyer sur le depot distant,
+# puis creer une "PULL REQUEST" pour demander une revue de code.
 
-Cela dit, on est sur notre branche dev, on fait les modifs puis on les push sur le repo distant.
-Une fois fait, on va sur la GUI de notre repo et on remarquera qu'il nous est propose de faire 
-un "PULL REQUEST" sur github et ce sera "MERGE REQUEST" sur gitlab: mais c'est la meme action.
+# Cela dit, on est sur notre branche dev, on fait les modifs puis on les push sur le repo distant.
+# Une fois fait, on va sur la GUI de notre repo et on remarquera qu'il nous est propose de faire 
+# un "PULL REQUEST" sur github et ce sera "MERGE REQUEST" sur gitlab: mais c'est la meme action.
 
-Ca veut dire qu'on informe une equipe de dev que nous avons apporte des modifs et qu'on aimerait
- les pusher sur la main mais il faudrait qu'il verifie si tout est bon avant de valider
+# Ca veut dire qu'on informe une equipe de dev que nous avons apporte des modifs et qu'on aimerait
+# les pusher sur la main mais il faudrait qu'il verifie si tout est bon avant de valider
 
 ```
 
