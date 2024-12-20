@@ -46,8 +46,7 @@
 
 ```
 
-# Cette partie a ete cree sur la nouvelle branche dev puis commite : et done elle est absente sur la main
-# parce qu'on n'a pas encore merge
+## Cette partie a ete cree sur la nouvelle branche dev puis commite : et done elle est absente sur la main parce qu'on n'a pas encore merge
 
 ```bash
 
