@@ -4,7 +4,7 @@
 ## initialisation des etapes de configuration de git 
 
 
-``````bash
+```bash
 
 # documentation officielle pour recherche sur le sujet
 	https://git-scm.com/docs
@@ -44,6 +44,13 @@
 # si on s'est trompe et on veut annuler un git add on fait 
 	git restore --staged <Nom_du_fichier_a_annuler> ou alors <.> pour tous les fichiers
 
+```
+
+# Cette partie a ete cree sur la nouvelle branche dev puis commite : et done elle est absente sur la main
+# parce qu'on n'a pas encore merge
+
+```bash
+
 # on peut creer une nouvelle branche avec cette commande
 	git checkout -b <Nom_de_la_branche>
 
@@ -51,5 +58,5 @@
 	git chekout <Nom_de_la_branche_ou_on _veut_etre>
 	git branch #affiche toutes les branches sur notre repo et en vert celle ou on se trouve
 
-
+```
 
