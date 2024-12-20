@@ -57,15 +57,15 @@
 	git chekout <Nom_de_la_branche_ou_on _veut_etre>
 	git branch #affiche toutes les branches sur notre repo et en vert celle ou on se trouve
 
-### Cette partie apparaitra desormais dans le branche main parce qu'on va la merger : c'est a dire, toutes les modifs qui ont ete faite sur la branche dev seront desormais dans la main. Pour merger on fait comme suit
+## Cette partie apparaitra desormais dans le branche main parce qu'on va la merger : c'est a dire, toutes les modifs qui ont ete faite sur la branche dev seront desormais dans la main. Pour merger on fait comme suit
 
-### on revient d'abords sur la branche dans laquelle on veut merger ( dans notre cas c'est main)
+## on revient d'abords sur la branche dans laquelle on veut merger ( dans notre cas c'est main)
 	git checkout main
 
-### on fait ensuite le merge depuis la branche dev
+## on fait ensuite le merge depuis la branche dev
 	git merge dev
 
-### on vera que toutes les modifs de la dev sont desormais en local sur la branche main. on peut maintenant faire un push de main sur le repo distant
+## on vera que toutes les modifs de la dev sont desormais en local sur la branche main. on peut maintenant faire un push de main sur le repo distant
 	git push origin main
 	
 
