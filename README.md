@@ -43,3 +43,13 @@
 
 # si on s'est trompe et on veut annuler un git add on fait 
 	git restore --staged <Nom_du_fichier_a_annuler> ou alors <.> pour tous les fichiers
+
+# on peut creer une nouvelle branche avec cette commande
+	git checkout -b <Nom_de_la_branche>
+
+# une fois cree on peut naviguer a travers les branches 
+	git chekout <Nom_de_la_branche_ou_on _veut_etre>
+	git branch #affiche toutes les branches sur notre repo et en vert celle ou on se trouve
+
+
+
