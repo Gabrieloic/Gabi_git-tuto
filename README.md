@@ -86,5 +86,8 @@
 # Ca veut dire qu'on informe une equipe de dev que nous avons apporte des modifs et qu'on aimerait
 # les pusher sur la main mais il faudrait qu'il verifie si tout est bon avant de valider
 
+# le PULL REQUEST permet de prevenir GIT que nous avons une nodification sur notre branche que nous voulons
+# rajouter sur une autre branche
+
 ```
 
